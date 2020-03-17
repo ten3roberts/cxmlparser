@@ -1,0 +1,6 @@
+<message>
+		<from>Adam</from>
+		<to>Tim</to>
+		<date fmt="iso">2020-02-05</date>
+		<contents>Hello, how are you doing?</contents>
+</message>
